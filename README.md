@@ -2,7 +2,7 @@
 
 Hospital Billing System - Java 
 
-<img src="/src/assets/icon/hospital_billing_system.png" alt="Alt Text" width="500" height="500"/>
+<img src="/src/Icon/hospital_billing_system.png" alt="Hospital" width="500" height="500"/>
 
 ## Description
 
